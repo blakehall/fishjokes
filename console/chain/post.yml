@@ -1,0 +1,5 @@
+commands:
+  - command: config:import
+  - command: update:execute
+    arguments:
+      module: all

@@ -1,0 +1,5 @@
+commands:
+  - command: database:dump
+  - command: exec
+    arguments:
+      bin: composer archive --working-dir=../ --dir=/tmp
