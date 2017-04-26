@@ -1,0 +1,7 @@
+services:
+  fishjokes.request_subscriber:
+    class: Drupal\fishjokes\EventSubscriber\RequestSubscriber
+    arguments: []
+    tags:
+      - { name: event_subscriber }
+

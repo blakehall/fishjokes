@@ -1,0 +1,7 @@
+name: fishjokes
+type: module
+description: A module to encapsulate the Alexa skill that responds to fish joke requests from a Drupal site
+core: 8.x
+package: Alexa
+dependencies:
+  - alexa

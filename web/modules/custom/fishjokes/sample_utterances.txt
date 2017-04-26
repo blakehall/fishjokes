@@ -1,0 +1,41 @@
+GetCategorizedJokes tell me a joke about {Category}
+GetCategorizedJokes tell me a {Category} joke
+GetCategorizedJokes tell me a {Category} fish joke
+GetCategorizedJokes tell me a {Category} joke about fish
+GetCategorizedJokes tell me a {Category} joke about fishing
+GetCategorizedJokes give me a joke about {Category}
+GetCategorizedJokes give me a {Category} joke
+GetCategorizedJokes give me a {Category} fish joke
+GetCategorizedJokes give me a {Category} joke about fish
+GetCategorizedJokes give me a {Category} joke about fishing
+GetCategorizedJokes get me a joke about {Category}
+GetCategorizedJokes get me a {Category} joke
+GetCategorizedJokes get me a {Category} fish joke
+GetCategorizedJokes get me a {Category} joke about fish
+GetCategorizedJokes get me a {Category} joke about fishing
+GetCategorizedJokes a joke about {Category}
+GetCategorizedJokes some joke about {Category}
+GetCategorizedJokes joke about {Category}
+GetCategorizedJokes jokes about {Category}
+GetCategorizedJokes a joke with {Category}
+GetCategorizedJokes some joke with {Category}
+GetCategorizedJokes joke with {Category}
+GetCategorizedJokes jokes with {Category}
+GetCategorizedJokes {Category} joke
+GetCategorizedJokes some {Category} joke
+GetCategorizedJokes joke for {Category}
+GetCategorizedJokes a joke for {Category}
+GetCategorizedJokes some joke for {Category}
+GetCategorizedJokes jokes for {Category}
+GetCategorizedJokes what is a {Category} joke
+GetCategorizedJokes what a {Category} joke is
+GetCategorizedJokes for a {Category} joke
+GetCategorizedJokes for {Category} jokes
+GetFishJokes tell me a joke
+GetFishJokes give me a joke
+GetFishJokes get me a joke
+GetFishJokes joke
+GetFishJokes jokes
+GetFishJokes for a joke
+GetFishJokes for jokes
+GetFishJokes make me laugh

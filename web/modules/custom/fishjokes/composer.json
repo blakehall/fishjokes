@@ -1,0 +1,14 @@
+{
+  "name": "drupal/fishjokes",
+  "type": "drupal-module",
+  "description": "A module to encapsulate the Alexa skill that responds to fish joke requests from a Drupal site",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/fishjokes",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/fishjokes",
+    "source": "http://cgit.drupalcode.org/fishjokes"
+  },
+  "require": { }
+}

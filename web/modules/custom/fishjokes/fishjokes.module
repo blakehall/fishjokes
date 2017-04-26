@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains fishjokes.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function fishjokes_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the fishjokes module.
+    case 'help.page.fishjokes':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('A module to encapsulate the Alexa skill that responds to fish joke requests from a Drupal site') . '</p>';
+      return $output;
+
+    default:
+  }
+}
